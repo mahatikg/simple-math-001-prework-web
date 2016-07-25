@@ -1,6 +1,6 @@
 # Math
 
-## Objectives
+## Objectives!!
 
 1. Practice doing basic math in Ruby
 2. Understand how division in Ruby differs from normal division
